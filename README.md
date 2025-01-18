@@ -1,1 +1,1 @@
-# college_alumni
+# GMU_ALUMNI_PROJECT
