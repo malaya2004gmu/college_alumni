@@ -1,2 +1,2 @@
 # GMU_ALUMNI_PROJECT
-  this is complete based om php 
+  this is completly based on php. 
